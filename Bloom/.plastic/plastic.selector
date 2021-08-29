@@ -1,0 +1,4 @@
+repository "Bloom@ssl://zxblearing@sh03-plasticscm.unity.cn:8787"
+  path "/"
+    smartbranch "/main/15988404537" 
+     
